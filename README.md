@@ -10,7 +10,7 @@
 - <b>Phase 3: Helpdesk & Ticketing System</b>
   - [view project](https://github.com/desirebunjira14/homelab-ticketing-system)
 - <b>Phase 4: Networking Fundamentals</b>
-  - [view project](https://github.com/joshmadakor1/EncrypterPOC)
+  - [view project](https://github.com/desirebunjira14/homelab-networking-fundamentals)
 - <b>Phase 5: Troubleshooting & Documentation</b>
   - [view project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Network Diagram</b>
