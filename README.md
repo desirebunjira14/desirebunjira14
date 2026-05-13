@@ -14,7 +14,7 @@
 - <b>Phase 5: Troubleshooting & Documentation</b>
   - [view project](https://github.com/desirebunjira14/homelab-troubleshooting-documentation)
 - <b>Network Diagram</b>
-  - [view diagram](https://github.com/joshmadakor1/EncrypterPOC)
+  - [view diagram](https://github.com/desirebunjira14/homelab-network-diagrams)
 - <b>Knowledge Base</b>
   - [view kb](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
