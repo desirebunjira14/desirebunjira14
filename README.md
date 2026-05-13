@@ -8,7 +8,7 @@
 - <b>Phase 2: Active Directory & User Management</b>
   - [view project](https://github.com/desirebunjira14/homelab-active-directory) <b>
 - <b>Phase 3: Helpdesk & Ticketing System</b>
-  - [view project](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [view project](https://github.com/desirebunjira14/homelab-ticketing-system)
 - <b>Phase 4: Networking Fundamentals</b>
   - [view project](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Phase 5: Troubleshooting & Documentation</b>
