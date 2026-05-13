@@ -4,7 +4,7 @@
 <h2>This space documents my journey from theory to practice—building a fully functional simulated corporate network that demonstrates proficiency in user management, ticketing systems, troubleshooting, and documentation. These are the exact skills that translate directly to any IT Support or Helpdesk role.
 
 - <b>Phase 1: Environment Setup</b>
-  - [view project](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [view project](https://github.com/desirebunjira14/homelab-environment-setup)
 - <b>Phase 2: Active Directory & User Management</b>
   - [view project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>Phase 3: Helpdesk & Ticketing System</b>
