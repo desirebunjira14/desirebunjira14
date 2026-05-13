@@ -6,7 +6,7 @@
 - <b>Phase 1: Environment Setup</b>
   - [view project](https://github.com/desirebunjira14/homelab-environment-setup)
 - <b>Phase 2: Active Directory & User Management</b>
-  - [view project](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [view project](https://github.com/desirebunjira14/homelab-active-directory) <b>
 - <b>Phase 3: Helpdesk & Ticketing System</b>
   - [view project](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Phase 4: Networking Fundamentals</b>
