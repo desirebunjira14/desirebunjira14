@@ -12,7 +12,7 @@
 - <b>Phase 4: Networking Fundamentals</b>
   - [view project](https://github.com/desirebunjira14/homelab-networking-fundamentals)
 - <b>Phase 5: Troubleshooting & Documentation</b>
-  - [view project](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [view project](https://github.com/desirebunjira14/homelab-troubleshooting-documentation)
 - <b>Network Diagram</b>
   - [view diagram](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Knowledge Base</b>
