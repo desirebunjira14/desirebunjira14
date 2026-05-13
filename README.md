@@ -16,7 +16,7 @@
 - <b>Network Diagram</b>
   - [view diagram](https://github.com/desirebunjira14/homelab-network-diagrams)
 - <b>Knowledge Base</b>
-  - [view kb](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [view kb](https://github.com/desirebunjira14/homelab-knowledge-base)
 
 <h2> 🤳 Connect with me:</h2>
 
