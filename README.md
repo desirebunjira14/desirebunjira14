@@ -1,21 +1,21 @@
 <h1>Hi, I'm Desire! 
   </b>Welcome to my IT Support homelab repository. 
 
-<h2>This space documents my journey from theory to practice—building a fully functional simulated corporate network that demonstrates proficiency in user management, ticketing systems, troubleshooting, and documentation. These are the exact skills that translate directly to any IT Support or Helpdesk role.
+<h2> This space documents my journey from theory to practice—building a fully functional simulated corporate network that demonstrates proficiency in user management, ticketing systems, troubleshooting, and documentation. These are the exact skills that translate directly to any IT Support or Helpdesk role.
 
-- <b>Phase 1: Environment Setup</b>
+- #### <b>Phase 1: Environment Setup</b>
   - [view project](https://github.com/desirebunjira14/homelab-environment-setup)
-- <b>Phase 2: Active Directory & User Management</b>
+- #### <b>Phase 2: Active Directory & User Management</b>
   - [view project](https://github.com/desirebunjira14/homelab-active-directory) <b>
-- <b>Phase 3: Helpdesk & Ticketing System</b>
+- #### <b>Phase 3: Helpdesk & Ticketing System</b>
   - [view project](https://github.com/desirebunjira14/homelab-ticketing-system)
-- <b>Phase 4: Networking Fundamentals</b>
+- #### <b>Phase 4: Networking Fundamentals</b>
   - [view project](https://github.com/desirebunjira14/homelab-networking-fundamentals)
-- <b>Phase 5: Troubleshooting & Documentation</b>
+- #### <b>Phase 5: Troubleshooting & Documentation</b>
   - [view project](https://github.com/desirebunjira14/homelab-troubleshooting-documentation)
-- <b>Network Diagram</b>
+- #### <b>Network Diagram</b>
   - [view diagram](https://github.com/desirebunjira14/homelab-network-diagrams)
-- <b>Knowledge Base</b>
+- #### <b>Knowledge Base</b>
   - [view kb](https://github.com/desirebunjira14/homelab-knowledge-base)
 
 <h2> 🤳 Contact me:</h2>
